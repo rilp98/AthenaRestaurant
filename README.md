@@ -1,2 +1,3 @@
 It is a small project where I use css grid.
-athenarestaurant.netlify.app
+
+This is the project link: athenarestaurant.netlify.app
